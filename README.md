@@ -1,2 +1,1 @@
-This is my second project
-as an ALX student\n
+0.Script that prints "Hello, World!"
